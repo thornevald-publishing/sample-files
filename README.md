@@ -4,7 +4,9 @@ This repository contains advisory and reference files for authors and publishers
 
 ## Contents
 
-- `copyright.md` – Practical advice for authors on AI, DRM, and rights protection.
+- `copyright.md` – Practical advice for authors on AI, DRM, and rights protection.  
+- `ai-safety-compliance-policy-2026.md` AI Safety & Compliance Policy 2026: Publisher & Vendor Template  
+- `direct-sale-how-to.md` How to Sell Direct: The Indie Author Manual (2026 Update)  
 - Other advisory/reference files may be added over time.
 
 ## Purpose
