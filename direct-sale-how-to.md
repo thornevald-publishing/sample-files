@@ -1,5 +1,8 @@
 # HOW TO SELL DIRECT: THE INDIE AUTHOR MANUAL (2026 UPDATE)
 
+*Last updated: January 02, 2026*  
+Use freely. Modify as needed. Good luck.
+
 ## 1. THE SITE: WHERE YOU OWN THE AUDIENCE
 
 **Goal:** Your website is no longer a brochure. It’s your **storefront, newsletter hub, and fulfillment command center**.
@@ -99,3 +102,9 @@ Depends on your stack:
 * Platforms = traffic, not leverage.
 
 **Outcome:** Follow this, and you reclaim readers, revenue, and control. Do it sloppy, and you’re just renting space in someone else’s walled garden.
+
+## About This HOW TO
+
+This HOW TO is provided by Thornevald Publishing to help indie authors take full control of their sales and audience in an evolving digital landscape. We believe authors should own the relationship with their readers and manage their work directly, rather than relying solely on platforms.
+
+For more resources, visit: www.thornevald.com
